@@ -1,0 +1,4 @@
+User: Stexinator
+Foldername: Stexinators Homebrew
+
+I hereby allow Stexinator and maintainers of this repository to use and publish my homebrew content found in the folder above.
