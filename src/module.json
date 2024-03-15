@@ -1,0 +1,35 @@
+{
+  "id": "the-witcher-trpg-homebrew-repository",
+  "title": "The Witcher TRPG Homebrew Repository",
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "TheWitcherTRPG",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Stexinator",
+      "discord": "Stexinator",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/Stexinator/TheWitcherTRPGHomebrewRepository",
+  "manifest": "https://github.com/Stexinator/TheWitcherTRPGHomebrewRepository/releases/latest/download/module.json",
+  "download": "https://github.com/Stexinator/TheWitcherTRPGHomebrewRepository/releases/latest/download/module.zip",
+  "readme": "README.md",
+  "includes": [
+    "./assets/**",
+    "./packs/**",
+    "./module.json",
+    "./README.md"
+  ]
+}
